@@ -1,0 +1,16 @@
+[
+    {
+        "Nome": "Berardo Mario",
+        "Cognome": "Manzi",
+        "Data di Nascita": "1987-05-10",
+        "Libri": []
+    },
+    {
+        "Nome": "Davide",
+        "Cognome": "D'Intino",
+        "Data di Nascita": "1990-10-12",
+        "Libri": [
+            "Il Signore degli Anelli"
+        ]
+    }
+]
