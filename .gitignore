@@ -2,4 +2,4 @@ venv
 .vscode
 
 Funzioni/.ipynb_checkpoints
-Funzioni/__pycache__
+*__pycache__
